@@ -29,7 +29,6 @@ To run this program :
 | user can seach photo by category | search category| photos of that category will be displayed |
 
 ## Link to website
-<!-- [kgallery](https://gallery-best.herokuapp.com/) -->
 
 ## Contact Information
 you can contact me at Kmbaria.george@gmail.com
