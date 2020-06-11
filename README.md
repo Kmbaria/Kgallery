@@ -5,7 +5,7 @@ A personal gallery app where i display my photo portfolio and people can view th
 Follow the following steps:
  * git clone https://github.com/kmbaria/kgallery
  * cd Gallery
-   atom .
+   code .
  * code . (this is if Visual Studio Code is your preferred text editor)
 To run this program :
     * run this command lines in your terminal:
