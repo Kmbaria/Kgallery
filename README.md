@@ -1,7 +1,7 @@
 # Kgallery
 
 # Description
-A personal gallery app where i display my photo portfolio and people can view them.
+A personal gallery app where I display my photo portfolio and people can view them.
 
 ## Setup And Installation
 Follow the following steps:
@@ -33,7 +33,7 @@ To run this program :
 
 
 ## Contact Information
-you can contact me at Kmbaria.george@gmail.com
+You can contact me at Kmbaria.george@gmail.com
 
 
 # License
