@@ -4,7 +4,7 @@ A personal gallery app where i display my photo portfolio and people can view th
 ## Setup And Installation
 Follow the following steps:
  * git clone https://github.com/kmbaria/kgallery
- * cd Gallery
+ * cd Gallery.
    code .
  * code . (this is if Visual Studio Code is your preferred text editor)
 To run this program :
