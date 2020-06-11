@@ -1,5 +1,5 @@
 # Kgallery
-
+#  Author
 # Description
 A personal gallery app where I display my photo portfolio and people can view them.
 
