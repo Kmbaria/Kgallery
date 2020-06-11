@@ -1,6 +1,6 @@
 # kgallery
 # Description
-A personal gallery app where i display my photo portfolio and people can view them
+A personal gallery app where i display my photo portfolio and people can view them.
 ## Setup And Installation
 Follow the following steps:
  * git clone https://github.com/kmbaria/kgallery
