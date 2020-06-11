@@ -6,6 +6,7 @@
 A personal gallery app where I display my photo portfolio and people can view them.
 
 ## Setup And Installation
+
 Follow the following steps:
  * git clone https://github.com/kmbaria/kgallery
  * cd Gallery.
