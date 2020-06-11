@@ -16,8 +16,9 @@ To run this program :
 * Python using the Django Framework.
 * HTML/CSS
 * Bootstrap
+
 ## Known Bugs
-There is no known bug for now
+   There is no known bug for now
 
 # BDD
 | Behavior            | Input                         | Output                        |
