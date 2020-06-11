@@ -21,6 +21,7 @@ To run this program :
    There is no known bug for now
 
 # BDD
+
 | Behavior            | Input                         | Output                        |
 | ------------------- | ----------------------------- | ----------------------------- |
 | user can view photos |  tap view button | photos is displayed |
