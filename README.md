@@ -36,8 +36,7 @@ you can contact me at Kmbaria.george@gmail.com
 
 
 # License
-
-MIT License
+  MIT License
 
 Copyright (c) 2020 Jojik.GK
 
