@@ -16,6 +16,7 @@ To run this program :
     * access the application on this localhost address http://127.0.0.1:8000
     
 # Technologies Used
+
 * Python using the Django Framework.
 * HTML/CSS
 * Bootstrap
