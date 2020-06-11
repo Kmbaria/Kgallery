@@ -1,4 +1,4 @@
-# kgallery
+# Kgallery
 # Description
 A personal gallery app where i display my photo portfolio and people can view them.
 ## Setup And Installation
