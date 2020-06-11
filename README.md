@@ -11,6 +11,7 @@ To run this program :
     * run this command lines in your terminal:
     * python manage.py runserver
     * access the application on this localhost address http://127.0.0.1:8000
+    
 # Technologies Used
 * Python using the Django Framework.
 * HTML/CSS
