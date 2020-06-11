@@ -20,11 +20,10 @@ To run this program :
 # Technologies Used
 
 * Python using the Django Framework.
-* HTML/CSS
-* Bootstrap
+* HTML/CSS.
+* Bootstrap.
 
 ## Known Bugs
-
    There is no known bug for now
 
 # BDD
